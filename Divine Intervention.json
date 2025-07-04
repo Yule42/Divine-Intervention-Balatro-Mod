@@ -1,0 +1,15 @@
+    {
+    "id": "DivineIntervention",
+    "name": "Divine Intervention",
+    "display_name": "Divine Intervention",
+    "prefix": "divi",
+    "author": [ "sophiedeergirl" ],
+    "description": "Lets you know when you only have one hand left",
+    "main_file": "main.lua",
+    "priority": 0,
+    "version": "1.0",
+    "dependencies": [
+    ],
+    "conflicts": [
+    ],
+}
