@@ -1,3 +1,8 @@
+-- Tailsman Compat (fake)
+to_big = to_big or function(x)
+  return x
+end
+
 this_mod = SMODS.current_mod
 
 SMODS.Sound({key = "jesus", path = "jesus.ogg",})
